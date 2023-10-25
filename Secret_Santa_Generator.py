@@ -1,5 +1,4 @@
 #!/bin/python3
-#Brandon Foster
 #10OCT2023 @2130
 #Secret_Santa_Generator.py
 
