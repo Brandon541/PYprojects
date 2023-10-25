@@ -60,5 +60,5 @@ class SecretSantaGenerator:  #SecretSantaGenerator class, passing the main windo
             self.result_label.config(text="🎁Secret Santa assignments generated and saved to text files!🎅", fg="#00ff00")
 
 root = tk.Tk()  #tk.Tk(): Creates the main window of the application.
-app = SecretSantaGenerator(root)  #app = SecretSantaGenerator(root): Creates an instance of the
-root.mainloop()  #root.mainloop(): Starts the main event loop of the application, which listens for user interactions.
+app = SecretSantaGenerator(root) '''app = SecretSantaGenerator(root): Creates an instance of the SecretSantaGenerator class, passing the main window as a parameter. '''
+root.mainloop()  '''root.mainloop(): Starts the main event loop of the application, which listens for user interactions.'''
